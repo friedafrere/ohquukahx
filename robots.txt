@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aebogohcie.clairvoyants2.tech/sitemap.xml
